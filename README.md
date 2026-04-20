@@ -65,7 +65,7 @@ I build LLM-powered products **end-to-end** — from agent orchestration and RAG
 <table>
 <tr>
 <td align="center" width="130">
-  <img src="https://logo.clearbit.com/walmart.com" width="72" alt="Walmart" /><br/>
+  <img src="./assets/walmart.svg" width="80" alt="Walmart" /><br/>
   <sub><b>Walmart</b></sub>
 </td>
 <td valign="middle">
@@ -78,7 +78,7 @@ Backend engineering on large-scale distributed systems for one of the world's la
 </tr>
 <tr>
 <td align="center" width="130">
-  <img src="https://logo.clearbit.com/caterpillar.com" width="72" alt="Caterpillar" /><br/>
+  <img src="./assets/caterpillar.svg" width="80" alt="Caterpillar" /><br/>
   <sub><b>Caterpillar Inc.</b></sub>
 </td>
 <td valign="middle">
