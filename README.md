@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=260&section=header&text=Jayasoruban%20R&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Fullstack%20Engineer&descAlignY=58&descSize=22&descFontColor=E0E7FF" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=240&section=header&text=Jayasoruban%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Fullstack%20Engineer&descAlignY=58&descSize=22&descFontColor=E0E7FF" width="100%" alt="header" />
 
 <br/>
 
-<!-- Status line -->
-<kbd>&nbsp;**Software Engineer III @ Walmart**&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;Ex-Caterpillar&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;Chennai, India 🇮🇳&nbsp;</kbd>
+<kbd>&nbsp;**Ex-Walmart**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;**Ex-Caterpillar**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;Chennai, India 🇮🇳&nbsp;</kbd>
 
 <br/><br/>
 
 <a href="https://github.com/jayasoruban">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-grade+LLM+systems.;Agents+%2B+RAG+%2B+MCP+%2B+Full-stack+UIs.;Shipping+6+AI+products+in+30+days.;Quitting+corporate+%E2%86%92+going+full-time+AI.;Accepting+freelance+clients+now." alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-grade+LLM+systems.;Agents+%2B+RAG+%2B+MCP+%2B+Full-stack+UIs.;Shipping+6+AI+products+in+30+days.;AI+systems+that+solve+real+business+problems.;Accepting+freelance+clients+now." alt="tagline" />
 </a>
 
 <br/><br/>
@@ -29,7 +28,7 @@
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca11dcaf6d5d.png"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca11dcaf6d5d.png" width="26"></picture> &nbsp; At a Glance
+## ✨ &nbsp; At a Glance
 
 <table>
 <tr>
@@ -37,11 +36,11 @@
 
 ### Who I am
 
-Software engineer with **4+ years at Fortune 500 companies** (Walmart, Caterpillar), now going all-in on AI engineering.
+Software engineer with **4+ years at Fortune 500 companies** — Walmart and Caterpillar — now focused full-time on AI engineering.
 
 I build LLM-powered products **end-to-end** — from agent orchestration and RAG pipelines on the backend to polished React UIs on the frontend.
 
-**No hype. No vaporware. Just production-ready AI systems that solve real business problems.**
+**No hype. No vaporware. Production-ready AI systems that solve real business problems.**
 
 </td>
 <td valign="top" width="50%">
@@ -50,7 +49,7 @@ I build LLM-powered products **end-to-end** — from agent orchestration and RAG
 
 - 🚀 **Shipping** 6 production AI projects in 30 days
 - 📚 **Deep-diving** LangGraph, CrewAI, and MCP
-- 🧠 **Learning** multi-agent evaluation and observability
+- 🧠 **Exploring** multi-agent evaluation and observability
 - 💼 **Accepting** new freelance engagements (Q4 2026)
 - 📍 **Based in** Chennai, India · remote-first
 - ⚡ **Response time:** within 24 hours
@@ -61,32 +60,32 @@ I build LLM-powered products **end-to-end** — from agent orchestration and RAG
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-4fdc2e31-ebff-45dc-b9f6-e97cbfa2c20c.png" width="26" /> &nbsp; Experience
+## 💼 &nbsp; Experience
 
 <table>
 <tr>
-<td align="center" width="120">
-  <img src="https://img.icons8.com/color/96/walmart.png" width="64" /><br/>
+<td align="center" width="130">
+  <img src="https://logo.clearbit.com/walmart.com" width="72" alt="Walmart" /><br/>
   <sub><b>Walmart</b></sub>
 </td>
 <td valign="middle">
 
-**Software Engineer III** &nbsp;·&nbsp; <sub>Current</sub>
+**Software Engineer III**
 
-Backend engineering on large-scale distributed systems for one of the world's largest retailers. Python, Java, microservices, cloud infrastructure.
+Backend engineering on large-scale distributed systems for one of the world's largest retailers. Python, Java, microservices, cloud infrastructure, high-throughput data pipelines.
 
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-  <img src="https://img.icons8.com/color/96/caterpillar.png" width="64" /><br/>
+<td align="center" width="130">
+  <img src="https://logo.clearbit.com/caterpillar.com" width="72" alt="Caterpillar" /><br/>
   <sub><b>Caterpillar Inc.</b></sub>
 </td>
 <td valign="middle">
 
-**Software Engineer** &nbsp;·&nbsp; <sub>2023 – 2025</sub>
+**Software Engineer**
 
-Built real-time asset tracking and logistics services using Java, Spring Boot, REST APIs, and AWS. Shipped the PoC that became a global logistics platform.
+Built real-time asset tracking and logistics services using Java, Spring Boot, REST APIs, and AWS. Shipped the proof-of-concept that became a global logistics platform.
 
 </td>
 </tr>
@@ -94,7 +93,7 @@ Built real-time asset tracking and logistics services using Java, Spring Boot, R
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1a446b2d-efa3-4a8d-8b84-6b2830a1b22f.png" width="26" /> &nbsp; What I Build
+## 🧠 &nbsp; What I Build
 
 <table>
 <tr>
@@ -103,15 +102,15 @@ Built real-time asset tracking and logistics services using Java, Spring Boot, R
 ### 🤖 AI Agents & Multi-Agent Systems
 Orchestrated agent workflows using **LangGraph**, **CrewAI**, and **MCP** — with evals, tracing, and human-in-the-loop controls.
 
-**Typical delivery:** $15K – $50K, 3–6 weeks
+<sub>**Typical engagement:** $15K – $50K · 3–6 weeks</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 RAG Systems
-Retrieval-augmented chat over private document corpora with **ChromaDB**, **Pinecone**, hybrid search, and cited answers.
+Retrieval-augmented chat over private document corpora using **ChromaDB**, **Pinecone**, hybrid search, and cited answers.
 
-**Typical delivery:** $5K – $15K, 2–4 weeks
+<sub>**Typical engagement:** $5K – $15K · 2–4 weeks</sub>
 
 </td>
 </tr>
@@ -121,7 +120,7 @@ Retrieval-augmented chat over private document corpora with **ChromaDB**, **Pine
 ### ⚡ LLM Workflow Automation
 Business-system integrations with **n8n**, custom Python pipelines, and API orchestration across CRMs, databases, Slack, and more.
 
-**Typical delivery:** $2K – $8K, 1–2 weeks
+<sub>**Typical engagement:** $2K – $8K · 1–2 weeks</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +128,7 @@ Business-system integrations with **n8n**, custom Python pipelines, and API orch
 ### 🌐 Full-Stack AI Products
 End-to-end MVPs: **Next.js** UI + **FastAPI** backend + LLM + auth + payments + deployment. Design → ship.
 
-**Typical delivery:** $10K – $30K, 4–8 weeks
+<sub>**Typical engagement:** $10K – $30K · 4–8 weeks</sub>
 
 </td>
 </tr>
@@ -137,9 +136,7 @@ End-to-end MVPs: **Next.js** UI + **FastAPI** backend + LLM + auth + payments + 
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="26" /> &nbsp; Tech Stack
-
-<div align="left">
+## 🛠️ &nbsp; Tech Stack
 
 **AI · LLM · Agents**
 
@@ -183,11 +180,9 @@ End-to-end MVPs: **Next.js** UI + **FastAPI** backend + LLM + auth + payments + 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122056-bcf1ed93-b2b8-4c85-a3d6-7b7fb6b7d6d3.png" width="26" /> &nbsp; Featured Projects &nbsp; <sub><sup>(shipping now — 6 in 30 days)</sup></sub>
+## 🚀 &nbsp; Featured Projects &nbsp; <sub><sup>(shipping now — 6 in 30 days)</sup></sub>
 
 <table>
 <tr>
@@ -196,7 +191,7 @@ End-to-end MVPs: **Next.js** UI + **FastAPI** backend + LLM + auth + payments + 
 ### 🔍 DocuMind
 **RAG Chatbot over Custom Docs**
 
-LangChain · ChromaDB · Streamlit · OpenAI
+LangChain · ChromaDB · Streamlit
 
 Upload PDFs → chat with them → get cited answers.
 
@@ -208,7 +203,7 @@ Upload PDFs → chat with them → get cited answers.
 ### 🧑‍🔬 ResearchCrew
 **Autonomous Multi-Agent Researcher**
 
-CrewAI · Tavily · FastAPI · Next.js
+CrewAI · Tavily · Next.js
 
 3 agents collaborate to produce full market research reports.
 
@@ -220,7 +215,7 @@ CrewAI · Tavily · FastAPI · Next.js
 ### ⚡ LeadQualifier
 **AI Workflow Automation**
 
-n8n · OpenAI · HubSpot · Slack
+n8n · OpenAI · HubSpot
 
 Auto-score leads → enrich → route. Self-hosted.
 
@@ -234,7 +229,7 @@ Auto-score leads → enrich → route. Self-hosted.
 ### 🗄️ DB-MCP
 **Natural Language DB Assistant**
 
-MCP · PostgreSQL · Claude · Python
+MCP · PostgreSQL · Claude
 
 Query your database in plain English via Claude Desktop.
 
@@ -246,7 +241,7 @@ Query your database in plain English via Claude Desktop.
 ### ✨ ContentForge
 **Full-Stack AI SaaS MVP**
 
-Next.js · FastAPI · Stripe · Supabase
+Next.js · FastAPI · Stripe
 
 AI blog post generator with SEO. End-to-end product.
 
@@ -258,7 +253,7 @@ AI blog post generator with SEO. End-to-end product.
 ### 🎙️ VoiceBook
 **AI Voice Appointment Agent**
 
-LiveKit · Deepgram · ElevenLabs · OpenAI
+LiveKit · Deepgram · ElevenLabs
 
 Real-time voice AI that books appointments over the phone.
 
@@ -270,30 +265,20 @@ Real-time voice AI that books appointments over the phone.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-f1228926-01b9-4025-b44f-80d05b58f3ee.png" width="26" /> &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayasoruban&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="180" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasoruban&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B35&currStreakLabel=8B5CF6" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasoruban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="180" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jayasoruban&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="96%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasoruban&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6" width="96%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayasoruban&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&card_width=420&hide=contribs" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasoruban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6&card_width=330" height="160" />
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1a446b2d-efa3-4a8d-8b84-6b2830a1b22f.png" width="26" /> &nbsp; Let's Build Something
+## 🤝 &nbsp; Let's Build Something
 
-> I'm selective about who I work with. I take on **4–5 clients at a time** so every project gets real attention. If you're building something AI-powered and need an engineer who actually ships, I'd love to hear about it.
+> I take on **4–5 clients at a time** so every project gets real attention. If you're building something AI-powered and need an engineer who ships, I'd love to hear about it.
 
 <br/>
 
