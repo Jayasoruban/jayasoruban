@@ -56,41 +56,6 @@ I build LLM-powered products **end-to-end** — from agent orchestration and RAG
 </tr>
 </table>
 
----
-
-## 💼 &nbsp; Experience
-
-<table>
-<tr>
-<td align="center" width="130">
-  <img src="./assets/walmart.svg" width="80" alt="Walmart" /><br/>
-  <sub><b>Walmart</b></sub>
-</td>
-<td valign="middle">
-
-**Software Engineer III**
-
-Backend engineering on large-scale distributed systems for one of the world's largest retailers. Python, Java, microservices, cloud infrastructure, high-throughput data pipelines.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="130">
-  <img src="./assets/caterpillar.svg" width="80" alt="Caterpillar" /><br/>
-  <sub><b>Caterpillar Inc.</b></sub>
-</td>
-<td valign="middle">
-
-**Software Engineer**
-
-Built real-time asset tracking and logistics services using Java, Spring Boot, REST APIs, and AWS. Shipped the proof-of-concept that became a global logistics platform.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧠 &nbsp; What I Build
 
 <table>
