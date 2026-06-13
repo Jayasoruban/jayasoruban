@@ -3,10 +3,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=240&section=header&text=Jayasoruban%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Fullstack%20Engineer&descAlignY=58&descSize=22&descFontColor=E0E7FF" width="100%" alt="header" />
-
 <br/>
 
-<kbd>&nbsp;**Ex-Walmart**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;**Ex-Caterpillar**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;Chennai, India 🇮🇳&nbsp;</kbd>
+<kbd>&nbsp;**Software Engineer**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;**AI Stack**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;Chennai, India 🇮🇳&nbsp;</kbd>
 
 <br/><br/>
 
@@ -19,7 +18,6 @@
 <a href="https://www.linkedin.com/in/jayasoruban-r-67b35b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:jayasoruban@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/jayasoruban"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Freelance-10B981?style=for-the-badge&logo=upwork&logoColor=white" />&nbsp;
 <img src="https://komarev.com/ghpvc/?username=jayasoruban&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
