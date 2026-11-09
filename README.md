@@ -2,23 +2,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=240&section=header&text=Jayasoruban%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Fullstack%20Engineer&descAlignY=58&descSize=22&descFontColor=E0E7FF" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=240&section=header&text=jay kay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Fullstack%20Engineer&descAlignY=58&descSize=22&descFontColor=E0E7FF" width="100%" alt="header" />
 <br/>
 
 <kbd>&nbsp;**Software Engineer**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;**AI Stack**&nbsp;</kbd>&nbsp;&nbsp;·&nbsp;&nbsp;<kbd>&nbsp;Chennai, India 🇮🇳&nbsp;</kbd>
 
 <br/><br/>
 
-<a href="https://github.com/jayasoruban">
+<a href="https://github.com/jay kay">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+production-grade+LLM+systems.;Agents+%2B+RAG+%2B+MCP+%2B+Full-stack+UIs.;Shipping+6+AI+products+in+30+days.;AI+systems+that+solve+real+business+problems.;Accepting+freelance+clients+now." alt="tagline" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jayasoruban-r-67b35b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:jayasoruban@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/jayasoruban"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=jayasoruban&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/jay kay-r-67b35b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:jay kay@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/jay kay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jay kay&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -232,8 +232,8 @@ Real-time voice AI that books appointments over the phone.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayasoruban&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&card_width=420&hide=contribs" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasoruban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6&card_width=330" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay kay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&card_width=420&hide=contribs" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay kay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6&card_width=330" height="160" />
 
 </div>
 
@@ -247,7 +247,7 @@ Real-time voice AI that books appointments over the phone.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jayasoruban-r-67b35b1bb/">
+<a href="https://www.linkedin.com/in/jay kay-r-67b35b1bb/">
   <img src="https://img.shields.io/badge/Start%20a%20Conversation%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" />
 </a>
 
